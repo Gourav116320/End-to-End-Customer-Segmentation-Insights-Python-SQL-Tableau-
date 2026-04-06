@@ -42,5 +42,5 @@ The main goal of this project is to group customers into different segments and 
 ## 📁 Project Files
 - `data_cleaning.ipynb` → Data cleaning and preparation  
 - `sql_queries.sql` → SQL analysis queries  
-- `tableau_dashboard.png` → Dashboard visualization  
+- `tableau_dashboard` → Dashboard visualization  https://public.tableau.com/app/profile/gourav.singh7487/viz/Customer_17750657378760/Dashboard1?publish=yes
 - `dataset.csv` → Dataset used  
